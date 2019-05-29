@@ -1,0 +1,11 @@
+.fs { font-size: 20px; font-family: Tahoma; font-style: italic; text-align: center; color: #0000FF; }
+
+.fs2 { font-size: 12px; font-family: Tahoma; font-style: normal; text-align: center;}
+
+.fsbg { font-size: 12px; font-family: Tahoma; font-style: normal; text-align: left; background-color: #00FFFF;}
+
+.fsbg2 { font-size: 12px; font-family: Tahoma; font-style: normal; text-align: left; background-image: -webkit-gradient(linear, left top, right top, color-stop(0.00, #EE82EE), color-stop(1.0, #FFFF66)); column-count: 4; border: 2px dotted blue; padding: 10px;}
+
+.fsbgbx{ font-size: 30px; font-family: Tahoma; font-style: normal; text-align: center; background-image: -webkit-gradient(linear, left top, right top, color-stop(0.00, #EE82EE), color-stop(1.0, #FFFF66));  border-radius: 10px; color: #0000FF; text-shadow: 2px 2px 4px #333333;}
+
+.img{ background-image: url(image.jpg);}
