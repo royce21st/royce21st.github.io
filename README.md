@@ -1,10 +1,9 @@
 <!DOCTYPE html>
 <html>
-    <meta charset="UTF-8">
 
 <head>
     <h1 class="head1"> PERSONAL PAGE </h1>
-<link rel="stylesheet" type="text/css" href="https://royce21st/royce21st.github.io/blob/master/PersonalPage.css">
+<link rel="stylesheet" type="text/css" href="https://royce21st/royce21st.github.io/PersonalPage.css">
     
 </head>
 <body>
