@@ -4,11 +4,10 @@
 
 <head>
     <h1 class="head1"> PERSONAL PAGE </h1>
-<link rel="stylesheet" type="text/css" href="stylesheets/PersonalPage.css">
+<link rel="stylesheet" type="text/css" href="https://royce21st/royce21st.github.io/blob/master/PersonalPage.css">
     
 </head>
 <body>
-<link rel="stylesheet" type="text/css" href="stylesheets/PersonalPage.css">
   
 <p class="intro">This webpage is in experimental stage. This page is intended only for practice in Web Design but would also serve as a guide for my future work. This page would feature things that I enjoy doing as a hobby and if possible to be a career in the near future.
   
