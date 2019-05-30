@@ -4,7 +4,8 @@
 
 <head>
     <h1 class="head1"> PERSONAL PAGE </h1>
-
+<link rel="stylesheet" type="text/css" href="cssbranch/PersonalPage.css">
+    
 </head>
 <body>
 
