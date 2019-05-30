@@ -1,0 +1,88 @@
+﻿.head1 {
+  font-size: 55px;
+  font-family: "Calibri";
+  color: rgb(0, 0, 0);
+  font-style: italic;
+  line-height: 1.2;
+  text-align: center;
+  -moz-transform: scale(1.15, 1);
+  -webkit-transform: scale(1.15, 1);
+  -ms-transform: scale(1.15, 1);
+  position: absolute;
+  left: 175px;
+  top: 5px;
+  width: 437px;
+  height: 40px;
+  z-index: 11;
+}
+
+.intro {
+  font-size: 11.5px;
+  font-family: "Calibri";
+  color: rgb(0, 0, 0);
+  line-height: 1.2;
+  text-align: justify;
+  -moz-transform: scale(1.15, 1);
+  -webkit-transform: scale(1.15, 1);
+  -ms-transform: scale(1.15, 1);
+  position: absolute;
+  left: 125px;
+  top: 120px;
+  width: 580px;
+  height: 22px;
+  z-index: 8;
+  text-indent: 6%
+}
+
+.par1 {
+  font-size: 11.5px;
+  font-family: "Calibri";
+  color: rgb(0, 0, 0);
+  line-height: 1.2;
+  text-align: justify;
+  -moz-transform: scale(1.15, 1);
+  -webkit-transform: scale(1.15, 1);
+  -ms-transform: scale(1.15, 1);
+  position: absolute;
+  left: 105px;
+  top: 170px;
+  width: 287px;
+  height: 120px;
+  z-index: 9;
+  text-indent: 12%;
+}
+
+.par2 {
+  font-size: 11.5px;
+  font-family: "Calibri";
+  color: rgb(0, 0, 0);
+  line-height: 1.2;
+  text-align: justify;
+  -moz-transform: scale(1.15, 1);
+  -webkit-transform: scale(1.15, 1);
+  -ms-transform: scale(1.15, 1);
+  position: absolute;
+  left: 460px;
+  top: 285px;
+  width: 287px;
+  height: 120px;
+  z-index: 8;
+  text-indent: 12%;
+}
+
+.par3 {
+  font-size: 11.5px;
+  font-family: "Calibri";
+  color: rgb(0, 0, 0);
+  line-height: 1.2;
+  text-align: justify;
+  -moz-transform: scale(1.15, 1);
+  -webkit-transform: scale(1.15, 1);
+  -ms-transform: scale(1.15, 1);
+  position: absolute;
+  left: 105px;
+  top: 415px;
+  width: 288px;
+  height: 105px;
+  z-index: 7;
+}
