@@ -7,7 +7,9 @@
     
 </head>
 <body>
-  
+    
+<link rel="stylesheet" type="text/css" href="https://royce21st/royce21st.github.io/PersonalPage.css">
+    
 <p class="intro">This webpage is in experimental stage. This page is intended only for practice in Web Design but would also serve as a guide for my future work. This page would feature things that I enjoy doing as a hobby and if possible to be a career in the near future.
   
 <p class="par1">This paragraph would cover my hobby on music and composition. On the right side would be a link to my soundcloud and in the near future my own youtube channel and fb page. I would also want my songs to be sang by dedicated singers who enjoys creating original music. Targeting an album release would be one of my goals for this. Featuring orignial, cover and rendition songs. Most of the songs might be in acoustic since my current studio is my room. LOL.</p>
