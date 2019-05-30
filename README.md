@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html>
     <meta charset="UTF-8">
-    
+
 <head>
     <h1 class="head1"> PERSONAL PAGE </h1>
-    <link href="PersonalPage.css">
+
 </head>
 <body>
-<link href="PersonalPage.css">
+
   
 <p class="intro">This webpage is in experimental stage. This page is intended only for practice in Web Design but would also serve as a guide for my future work. This page would feature things that I enjoy doing as a hobby and if possible to be a career in the near future.
   
@@ -17,6 +17,6 @@
   
   
 <p class="par3">This section would feature my web design works. Maybe include an album for sample project page designs. Also released pages. Although this is just the first page I would be doing initially this would be the first on the list. FILLER FILLER FILLER FILLER FILLER FILLERFILLER FILLER FILLER FILLER FILLER FILLERFILLER FILLER FILLER FILLER FILLER FILLERFILLER FILLER FILLER FILLER FILLER FILLERFILLER FILLER FILLER FILLER FILLER FILLERFILLER FILLER FILLER FILLER FILLER FILLERFILLER FILLER FILLER.</p>  
-<!-- End your code here -->
+
 </body>
 </html>
