@@ -1,4 +1,4 @@
-﻿.head1 {
+﻿head1 {
   font-size: 55px;
   font-family: "Calibri";
   color: rgb(0, 0, 0);
@@ -16,7 +16,7 @@
   z-index: 11;
 }
 
-.intro {
+intro {
   font-size: 11.5px;
   font-family: "Calibri";
   color: rgb(0, 0, 0);
@@ -34,7 +34,7 @@
   text-indent: 6%
 }
 
-.par1 {
+par1 {
   font-size: 11.5px;
   font-family: "Calibri";
   color: rgb(0, 0, 0);
@@ -52,7 +52,7 @@
   text-indent: 12%;
 }
 
-.par2 {
+par2 {
   font-size: 11.5px;
   font-family: "Calibri";
   color: rgb(0, 0, 0);
@@ -70,7 +70,7 @@
   text-indent: 12%;
 }
 
-.par3 {
+par3 {
   font-size: 11.5px;
   font-family: "Calibri";
   color: rgb(0, 0, 0);
